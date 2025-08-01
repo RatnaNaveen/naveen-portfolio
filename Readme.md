@@ -10,11 +10,11 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+<img src="website_images\portfolio gifff.gif" width="900">
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+<img src="website_images\About portfolio.png.png" width="900">
 
 
 #### Projects Page
