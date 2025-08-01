@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://ratnanaveen.github.io/naveen-portfolio/
 
 :star: Star me on GitHub — it helps!
 
