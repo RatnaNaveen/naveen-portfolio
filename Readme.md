@@ -6,6 +6,10 @@
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/RatnaNaveen/naveen-portfolio/commits/main/)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://ratnanaveen.github.io/naveen-portfolio/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/katikidala-satya-ratna-naveen-6102a5255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6oNEmt%2B7Ri2p%2FdCeWZwYKQ%3D%3D)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+44c7bf2699400b080ff8147c00e9134e5c97bdc6
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
@@ -18,7 +22,7 @@
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+<img src="" width="900">
   
 
 
